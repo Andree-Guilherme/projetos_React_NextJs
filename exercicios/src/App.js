@@ -1,3 +1,5 @@
+import Nome from './components/Nome'
+
 function App() {
   return (
     <div>
@@ -8,11 +10,3 @@ function App() {
 }
 
 export default App;
-
-function Nome(){
-  return(
-    <span>
-      Bem vindo: Usuário
-    </span>
-  );
-}
